@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI Projects
 
 Analysis of various datasets showcasing Power BI use.
 
